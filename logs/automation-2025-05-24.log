@@ -1,0 +1,425 @@
+20:01:32.575 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+20:01:32.737 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+20:01:33.468 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+20:01:33.470 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+20:01:34.179 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+20:01:35.226 [main] INFO   testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+20:02:24.677 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+20:02:24.810 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+20:02:25.582 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+20:02:25.586 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+20:02:27.276 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+20:02:27.351 [main] INFO   testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+20:06:02.989 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+20:06:03.103 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+20:06:03.819 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+20:06:03.820 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+20:06:05.443 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+20:06:05.501 [main] INFO   testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+20:07:15.194 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+20:07:15.343 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+20:07:15.969 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+20:07:15.971 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+20:07:17.636 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:16:14.657 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:16:14.778 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:16:15.495 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:16:15.498 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:16:17.342 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:17:06.469 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:17:06.611 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:17:07.411 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:17:07.415 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:17:09.058 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:23:02.730 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:23:02.823 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:23:03.599 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:23:03.602 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:23:05.315 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:23:05.370 [main] ERROR  testCases.TC001_AccountRegistrationTest - Test failed..
+09:23:05.370 [main] DEBUG  testCases.TC001_AccountRegistrationTest - debud log
+09:24:45.834 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:24:45.927 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:24:46.735 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:24:46.739 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:24:48.612 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:24:48.666 [main] ERROR  testCases.TC001_AccountRegistrationTest - Test failed..
+09:27:31.215 [main] INFO   testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:27:31.325 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:27:32.115 [main] INFO   testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:27:32.125 [main] INFO   testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:27:34.040 [main] INFO   testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:27:34.094 [main] INFO   testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+09:38:11.273 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:38:11.378 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:38:12.148 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:38:12.151 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:38:13.796 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:38:13.852 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+09:41:04.463 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:41:04.586 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:41:05.216 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:41:05.218 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:41:06.833 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:41:06.905 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+09:41:06.905 [main] DEBUG testCases.TC001_AccountRegistrationTest - debud log
+09:44:29.525 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:44:29.630 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:44:30.348 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:44:30.350 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:44:31.956 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:44:32.007 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+09:44:32.008 [main] DEBUG testCases.TC001_AccountRegistrationTest - debud log
+09:47:03.045 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:47:03.145 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:47:04.005 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:47:04.008 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:47:06.159 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:47:06.209 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+09:48:42.154 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:48:42.268 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:48:42.963 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:48:42.965 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:48:44.655 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:48:44.702 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+09:50:46.055 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:50:46.171 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:50:46.860 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:50:46.862 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:50:47.489 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:50:48.619 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+09:53:29.622 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:54:01.526 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:54:01.644 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:54:02.308 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:54:02.315 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:54:03.949 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:54:03.992 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+09:56:00.296 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+09:56:00.408 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+09:56:01.033 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+09:56:01.035 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+09:56:02.704 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+09:56:02.776 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+10:41:24.017 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+10:41:24.126 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+10:41:24.743 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+10:41:24.745 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+10:41:26.453 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+10:41:26.503 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+10:41:50.905 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+10:41:51.053 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+10:41:51.778 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+10:41:51.784 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+10:41:53.442 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+10:41:53.486 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+10:45:22.710 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+10:45:22.821 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+10:45:23.448 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+10:45:23.450 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+10:45:24.910 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+10:45:24.962 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+10:45:28.557 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+10:45:28.672 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+10:45:29.374 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+10:45:29.375 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+10:45:30.837 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+10:45:30.875 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+10:46:11.119 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+10:46:11.119 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+10:46:11.331 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+10:46:11.339 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+10:46:12.075 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+10:46:12.089 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+10:46:12.100 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+10:46:12.102 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** providind customer detail ***
+10:46:14.321 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+10:46:14.382 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+10:46:14.389 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+10:46:14.456 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+11:36:54.607 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+11:40:20.515 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+11:40:20.668 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+11:40:21.305 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+11:40:21.307 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer detail ***
+11:40:23.245 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+11:40:23.294 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+12:53:47.363 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+12:53:47.511 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+12:53:48.230 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+12:53:48.233 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer detail ***
+12:53:49.862 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+12:53:49.911 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+13:18:29.724 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+13:18:29.833 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+13:18:30.444 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+13:18:30.447 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer detail ***
+13:18:31.143 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+13:18:32.229 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+14:02:18.935 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+14:02:19.053 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+14:02:19.792 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+14:02:19.794 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer detail ***
+14:02:21.420 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+14:02:21.480 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+14:03:29.963 [main] INFO  testCases.TC001_AccountRegistrationTest - **** staring TC001_AccountRegistrationTest ****
+14:03:30.090 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on MyAccount link ***
+14:03:30.702 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on Register link ***
+14:03:30.704 [main] INFO  testCases.TC001_AccountRegistrationTest - *** providing customer detail ***
+14:03:32.326 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expected message ***
+14:03:32.381 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+14:06:15.672 [main] INFO  testCases.TC002_LoginTest - Execution is started ...
+14:10:39.155 [main] INFO  testCases.TC002_LoginTest - Execution is started ...
+14:11:25.128 [main] INFO  testCases.TC002_LoginTest - Execution is started ...
+14:19:50.586 [main] INFO  testCases.TC002_LoginTest - Execution is started ...
+14:19:52.394 [main] INFO  testCases.TC002_LoginTest - execution finished ...
+14:20:39.742 [main] INFO  testCases.TC002_LoginTest - Execution is started ...
+14:20:41.657 [main] INFO  testCases.TC002_LoginTest - execution finished ...
+14:21:10.240 [main] INFO  testCases.TC002_LoginTest - Execution is started ...
+14:21:12.058 [main] INFO  testCases.TC002_LoginTest - execution finished ...
+18:07:21.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:07:21.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:07:21.359 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:07:21.525 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:07:21.528 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:07:21.528 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:07:21.529 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:07:21.529 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:07:21.530 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:07:21.541 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:07:21.542 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:07:21.546 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:07:21.547 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:07:21.548 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:07:21.549 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:07:21.549 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:07:21.550 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+18:07:21.613 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:07:21.614 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+18:07:21.676 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+18:07:21.682 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+18:07:21.684 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+18:07:21.686 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+18:07:21.692 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+18:07:21.695 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+18:07:21.698 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+18:07:21.704 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+18:07:21.707 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+18:07:21.710 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+18:07:21.714 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+18:07:21.728 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+18:07:21.731 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+18:07:21.737 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+18:07:21.742 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+18:07:21.745 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+18:07:21.749 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+18:07:21.764 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+18:07:21.768 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+18:07:21.772 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+18:07:21.774 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+18:07:21.776 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+18:07:21.778 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+18:07:21.784 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+18:07:21.792 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+18:07:21.796 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+18:07:21.813 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+18:07:21.816 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+18:07:21.822 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+18:07:21.830 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+18:07:21.835 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+18:07:21.839 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+18:08:37.295 [main] INFO  testCases.TC002_LoginTest - Execution is started ...
+18:08:39.095 [main] INFO  testCases.TC002_LoginTest - execution finished ...
+18:09:20.879 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:09:20.886 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:09:20.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:09:21.039 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:09:21.041 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:09:21.042 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:09:21.042 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:09:21.042 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:09:21.043 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:09:21.053 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:09:21.053 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:09:21.057 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:09:21.058 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:09:21.059 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:09:21.059 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:09:21.060 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:09:21.061 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+18:09:21.116 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:09:21.117 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+18:09:21.161 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+18:09:21.166 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+18:09:21.168 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+18:09:21.169 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+18:09:21.173 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+18:09:21.174 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+18:09:21.177 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+18:09:21.182 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+18:09:21.184 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+18:09:21.186 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+18:09:21.188 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+18:09:21.192 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+18:09:21.202 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+18:09:21.204 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+18:09:21.212 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+18:09:21.214 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+18:09:21.217 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+18:09:21.234 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+18:09:21.237 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+18:09:21.241 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+18:09:21.243 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+18:09:21.244 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+18:09:21.245 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+18:09:21.250 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+18:09:21.257 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+18:09:21.260 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+18:09:21.273 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+18:09:21.275 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+18:09:21.278 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+18:09:21.283 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+18:09:21.288 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+18:09:21.290 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+18:40:29.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:40:29.427 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:40:29.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:40:29.561 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:40:29.563 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:40:29.563 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:40:29.563 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:40:29.564 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:40:29.564 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:40:29.572 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:40:29.573 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:40:29.576 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:40:29.577 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:40:29.578 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:40:29.578 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:40:29.579 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:40:29.579 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+18:40:29.633 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:40:29.633 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+18:40:29.681 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+18:40:29.686 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+18:40:29.688 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+18:40:29.689 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+18:40:29.695 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+18:40:29.697 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+18:40:29.700 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+18:40:29.705 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+18:40:29.706 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+18:40:29.708 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+18:40:29.710 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+18:40:29.721 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+18:40:29.723 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+18:40:29.728 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+18:40:29.732 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+18:40:29.734 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+18:40:29.737 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+18:40:29.749 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+18:40:29.752 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+18:40:29.755 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+18:40:29.756 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+18:40:29.758 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+18:40:29.759 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+18:40:29.764 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+18:40:29.769 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+18:40:29.773 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+18:40:29.786 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+18:40:29.791 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+18:40:29.797 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+18:40:29.803 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+18:40:29.809 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+18:40:29.812 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+18:42:13.204 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:42:13.208 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:42:13.209 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:42:13.369 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:42:13.371 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:42:13.372 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:42:13.372 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:42:13.372 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:42:13.373 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:42:13.384 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:42:13.385 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:42:13.393 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:42:13.394 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:42:13.395 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:42:13.396 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:42:13.397 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:42:13.397 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+18:42:13.453 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:42:13.454 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+18:42:13.505 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+18:42:13.510 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+18:42:13.512 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+18:42:13.513 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+18:42:13.519 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+18:42:13.522 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+18:42:13.525 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+18:42:13.530 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+18:42:13.532 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+18:42:13.534 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+18:42:13.538 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+18:42:13.551 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+18:42:13.556 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+18:42:13.564 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+18:42:13.569 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+18:42:13.573 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+18:42:13.576 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+18:42:13.591 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+18:42:13.594 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+18:42:13.598 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+18:42:13.600 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+18:42:13.601 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+18:42:13.602 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+18:42:13.609 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+18:42:13.615 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+18:42:13.619 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+18:42:13.633 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+18:42:13.635 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+18:42:13.639 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+18:42:13.645 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+18:42:13.652 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+18:42:13.655 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+18:53:11.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:53:11.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:53:11.604 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:53:11.731 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:53:11.733 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:53:11.733 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:53:11.733 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:53:11.734 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:53:11.734 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:53:11.742 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:53:11.743 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:53:11.746 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:53:11.747 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:53:11.747 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:53:11.748 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:53:11.749 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:53:11.749 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+18:53:11.800 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:53:11.801 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+18:53:11.843 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+18:53:11.846 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+18:53:11.848 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+18:53:11.849 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+18:53:11.853 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+18:53:11.855 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+18:53:11.857 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+18:53:11.861 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+18:53:11.863 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+18:53:11.864 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+18:53:11.866 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+18:53:11.869 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+18:53:11.878 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+18:53:11.880 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+18:53:11.887 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+18:53:11.890 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+18:53:11.892 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+18:53:11.905 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+18:53:11.908 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+18:53:11.910 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+18:53:11.912 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
