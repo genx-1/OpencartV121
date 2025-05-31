@@ -6,6 +6,7 @@
       <class name="testCases.TC001_AccountRegistrationTest">
         <methods>
           <include name="veryfy_account_registration"/>
+          <include name="tearout"/>
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC001_AccountRegistrationTest -->
